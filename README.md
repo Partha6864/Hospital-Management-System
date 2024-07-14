@@ -6,4 +6,4 @@ The Hospital Management System is a Java-based application designed to manage va
 **Doctor Management:** Add,view,update and delete doctor information.<br>
 **Patient Management:** Add,view,update and delete patient information.<br>
 **Appointment Management:** Book,cancel and delete appointments.<br>
-**Role-Based Access:** Differentiates between user and employee roles for access control.<br>Users can add,view and update patient information and book or cancel appointments.<br>Employees can manage doctor information and appointment statuses.
+-**Role-Based Access:** Differentiates between user and employee roles for access control.<br>-Users can add,view and update patient information and book or cancel appointments.<br>-Employees can manage doctor information and appointment statuses.
