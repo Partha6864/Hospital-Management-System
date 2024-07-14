@@ -13,7 +13,8 @@ The Hospital Management System is a Java-based application designed to facilitat
 
 ### Technologies Used:
 - **Java:** Core language for development.
-- **JDBC:** Database system for storing hospital data.
+- **JDBC:** Java Database Connectivity for MySQL interaction.
+- **MySQL:** Database system for storing hospital data.
 
 ### Usage:
 - Clone the repository.
