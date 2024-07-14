@@ -17,3 +17,7 @@ Role-Based Access: Differentiates between user and employee roles for access con
 Users can add, view, and update patient information and book or cancel appointments.
 
 Employees can manage doctor information and appointment statuses.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
