@@ -1,5 +1,7 @@
 **Hospital Management System**<br>
+
 **Description:**<br>
+
 The Hospital Management System is a Java-based application designed to manage various operations within a hospital. The system allows for the efficient handling of doctor, patient, and appointment data. It provides functionalities to add, view, update, and delete doctors, patients, and appointments, ensuring smooth management of hospital operations.
 
 **Features:**
